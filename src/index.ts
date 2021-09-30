@@ -407,16 +407,16 @@ export default class mcGenericMethods {
           "                        <FieldType>Date</FieldType>" +
           /**Optional Specification for date field type
            * "						         <DefaultValue>getdate()</DefaultValue>" +
-           */
+           */ /*+"</Name>" +
   /*"                        <IsRequired>true</IsRequired>" +
           "                        <IsPrimaryKey>false</IsPrimaryKey>" +
           "                    </Field>" +
           "                    <Field>" +
           "                        <CustomerKey>" +
           /***FIELD ID***/
-          "                        <Name>" +
-          /***FIELD NAME***/ /*+"</Name>" +
-          "                        <FieldType>EmailAddress</FieldType>" +
+  //"                        <Name>" +
+  /***FIELD NAME***/
+  /*"                        <FieldType>EmailAddress</FieldType>" +
           "                        <IsRequired>false</IsRequired>" +
           "                        <IsPrimaryKey>false</IsPrimaryKey>" +
           "                    </Field>" +
